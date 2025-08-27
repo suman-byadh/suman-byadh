@@ -38,7 +38,7 @@ _Initial draft for a workout + meal tracking app (early stage)._
 ---
 
 ## 📊 GitHub Growth
-![KING's GitHub stats](https://github-readme-stats.vercel.app/api-username/suman-byadh&show_icons=true&theme=tokyonight)  
+![SUMAN`s GitHub stats](https://github-readme-stats.vercel.app/api-username/suman-byadh&show_icons=true&theme=tokyonight)  
 
 ---
 
